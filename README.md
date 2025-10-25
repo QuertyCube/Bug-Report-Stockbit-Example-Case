@@ -51,9 +51,8 @@ The app displays content and interface text in **English**, even though the defa
 
 ## 📸 Evidence
 Video evidence:  
+https://github.com/user-attachments/assets/8a39d5a3-e398-49cb-bd2d-68f488a1f67f
 
-[![Watch the video]()](https://github.com/QuertyCube/Bug-Report-Stockbit-Example-Case/blob/main/resources/Stockbit%20app%20displays%20English%20language%20despite%20default%20setting%20being%20Bahasa%20Indonesia.mp4)
-<video controls src="https://github.com/QuertyCube/Bug-Report-Stockbit-Example-Case/blob/main/resources/Stockbit%20app%20displays%20English%20language%20despite%20default%20setting%20being%20Bahasa%20Indonesia.mp4" title="Evidence Record"></video>
 
 ---
 
